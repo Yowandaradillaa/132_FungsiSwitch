@@ -41,5 +41,12 @@ int main()
 		cout << "4. Pembagian" << endl;
 		cout << "5. Keluar" << endl;
 		cout << "Masukan menu yang akan dipilih (1/2/3/4/5): " << endl;
+		cin >> pilihan;
+
+		switch (pilihan)
+		{
+		case 1: 
+
+		}
 	}
 }
